@@ -1,0 +1,38 @@
+.mainInfo {
+    color: rgb(214, 60, 55);
+    font-size: 250%;
+    text-align: center;  
+}
+
+.picture1 {
+    display: block;
+    margin-top: -1.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+    width: 479px;
+    border: 5px solid #000000;
+}
+
+.miniTitle {
+    font-size: 200%;
+    color: rgb(173, 20, 14);
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    background-color: rgb(134, 202, 214);
+    border: 2px solid rgb(89, 92, 65);
+    padding: 30;
+    justify-content: center;
+}
+
+.infoText {
+    font-size: 170%;
+    color:blueviolet;
+    margin: 3;
+    height: 33; 
+}
+
+
